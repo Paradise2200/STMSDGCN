@@ -1,6 +1,6 @@
 # Spatial-Temporal Multi-scale Dense Graph Convolution Network
 
-This project is based on a open-source Library, called [Spatial-Temporal Library](https://github.com/TCCofWANG/Spatial-Temporal-Forecasting-Library)
+This project is based on a open-source Library-[Spatial-Temporal Library](https://github.com/TCCofWANG/Spatial-Temporal-Forecasting-Library)
 
 # 📚Model Statics 
 
